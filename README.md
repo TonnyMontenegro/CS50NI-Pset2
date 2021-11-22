@@ -1,4 +1,4 @@
-# Pset 2 CS50Xni
+# CS50Xni Pset 2: Crypto
 
 Implementar:
 
